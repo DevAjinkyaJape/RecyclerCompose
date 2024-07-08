@@ -1,5 +1,5 @@
 # RecyclerView with Jetpack Compose
-
+### RecyclerView
 Welcome to the *RecyclerView with Jetpack Compose* project! This repository demonstrates the integration and usage of RecyclerView functionality within Jetpack Compose, providing a modern and efficient way to build lists and grids in your Android applications.
 
 •⁠  ⁠*Jetpack Compose Integration*: Utilizes the latest Compose framework to implement RecyclerView functionality.
